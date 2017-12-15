@@ -2,9 +2,9 @@
 title: "About me"
 ---
 Profesor asistente.  
-Escuela de Estadística.  
-Facultad de Ciencias.  
-Universidad Nacional de Colombia.  
+[Escuela de Estadística](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/).  
+[Facultad de Ciencias](http://ciencias.medellin.unal.edu.co/).  
+[Universidad Nacional de Colombia sede Medellín](http://medellin.unal.edu.co/).  
 email: fhernanb@unal.edu.co
 
 ```{r fig.asp=0.6, fig.align='center', echo=FALSE}
