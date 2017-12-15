@@ -7,8 +7,10 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Courses"
-      href: courses.html
+    - text: "Teaching"
+      href: teaching.html
+    - text: "Research"
+      href: research.html
 output:
   html_document:
     theme: readable
