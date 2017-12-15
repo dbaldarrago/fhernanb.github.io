@@ -6,6 +6,6 @@ More about this website.
 
 ```{r}
 x <- rnorm(100)
-plot(density(x))
+plot(density(x), lwd=3, col='blue')
 ```
 
