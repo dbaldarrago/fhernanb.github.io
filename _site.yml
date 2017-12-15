@@ -1,7 +1,7 @@
-name: "Florian Privé"
+name: "Freddy Hernández"
 output_dir: "."
 navbar:
-  title: "Florian Privé"
+  title: "Freddy Hernández"
   type: inverse
   left:
     - text: "About"
@@ -11,7 +11,7 @@ navbar:
       menu:
         - text: "Blog"
           icon: fa-rss
-          href: https://privefl.github.io/blog/
+          href: https://fhernanb.github.io/blog/
         - text: "Package bigstatsr"
           icon: fa-archive
           desc: "Statistical tools with big matrices stored on disk."
@@ -25,13 +25,9 @@ navbar:
           href: https://r-in-grenoble.github.io/
   right:
     - icon: fa-envelope-o
-      href: "mailto:florian.prive.21@gmail.com"
-    - icon: fa-github
-      href: https://github.com/privefl/privefl.github.io
+      href: "mailto:fhernanb@gmail.com"
     - icon: fa-twitter
-      href: https://twitter.com/privefl
-    - icon: fa-stack-overflow
-      href: http://stackoverflow.com/users/6103040/f-privé
+      href: https://twitter.com/fhernanb74
 output:
   html_document:
     theme: readable
