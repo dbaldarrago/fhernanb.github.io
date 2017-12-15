@@ -3,3 +3,9 @@ title: "About This Website"
 ---
   
 More about this website.
+
+```{r}
+x <- rnorm(100)
+plot(density(x))
+```
+
