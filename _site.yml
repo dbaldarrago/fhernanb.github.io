@@ -19,14 +19,16 @@ navbar:
           icon: fa-rss
           href: https://privefl.github.io/blog/
   right:
+    - icon: ion-university
+      href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
     - icon: fa-github
       href: https://github.com/fhernanb
     - icon: fa-twitter
       href: https://twitter.com/fhernanb74
 output:
   html_document:
-    theme: readable
-    highlight: textmate
+    theme: flatly
+    highlight: tango
     include:
       after_body: footer.html
     css: styles.css

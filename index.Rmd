@@ -5,9 +5,4 @@ output:
     includes:
       in_header: cover.html
 ---
-
-Profesor asistente.  
-Escuela de Estadística.  
-Facultad de Ciencias.  
-Universidad Nacional de Colombia.  
-email: fhernanb@unal.edu.co
+Welcome to my webpage!!!

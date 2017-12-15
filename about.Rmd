@@ -1,7 +1,19 @@
 ---
-title: "About This Website"
+title: "About me"
 ---
-  
-More about this website.
+Profesor asistente.  
+Escuela de Estadística.  
+Facultad de Ciencias.  
+Universidad Nacional de Colombia.  
+email: fhernanb@unal.edu.co
+
+```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/unal2.png")
+grid.raster(img)
+```
+
+
 
 
