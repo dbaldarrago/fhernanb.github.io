@@ -1,7 +1,7 @@
 name: "Freddy Hernández"
 output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Freddy Hernández"
   left:
     - text: "Home"
       href: index.html
@@ -9,7 +9,7 @@ navbar:
       href: about.html
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
     include:
       after_body: footer.html
