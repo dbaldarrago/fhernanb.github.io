@@ -1,16 +1,39 @@
-name: "my-website"
+name: "Florian Privé"
+output_dir: "."
 navbar:
-  title: "My Website"
+  title: "Florian Privé"
+  type: inverse
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
+      icon: fa-user 
       href: about.html
-      
+    - text: "#rstats"
+      menu:
+        - text: "Blog"
+          icon: fa-rss
+          href: https://privefl.github.io/blog/
+        - text: "Package bigstatsr"
+          icon: fa-archive
+          desc: "Statistical tools with big matrices stored on disk."
+          href: https://privefl.github.io/bigstatsr/
+        - text: "Package bigsnpr"
+          icon: fa-archive
+          desc: "Analysis of massive SNP arrays."
+          href: https://privefl.github.io/bigsnpr/
+        - text: "#rusersgrenoble"
+          icon: fa-group
+          href: https://r-in-grenoble.github.io/
+  right:
+    - icon: fa-envelope-o
+      href: "mailto:florian.prive.21@gmail.com"
+    - icon: fa-github
+      href: https://github.com/privefl/privefl.github.io
+    - icon: fa-twitter
+      href: https://twitter.com/privefl
+    - icon: fa-stack-overflow
+      href: http://stackoverflow.com/users/6103040/f-privé
 output:
   html_document:
-    theme: cosmo
+    theme: readable
     highlight: textmate
-    include:
-      after_body: footer.html
-    css: styles.css
+    
