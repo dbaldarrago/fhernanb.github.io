@@ -1,8 +1,19 @@
 ---
 title: ""
-output:
-  html_document:
-    includes:
-      in_header: cover.html
 ---
-Welcome to my webpage!!!
+
+<center>
+<h1>Welcome to my webpage!!!</h1>
+</center>
+
+```{r fig.asp=0.35, fig.align='center', echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/cover.png")
+grid.raster(img)
+```
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
