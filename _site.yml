@@ -11,6 +11,13 @@ navbar:
       href: teaching.html
     - text: "Research"
       href: research.html
+    - text: "Books"
+      href: books.html
+    - text: "#rstats"
+      menu:
+        - text: "Blog"
+          icon: fa-rss
+          href: https://privefl.github.io/blog/
   right:
     - icon: fa-github
       href: https://github.com/fhernanb
