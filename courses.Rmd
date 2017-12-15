@@ -1,0 +1,28 @@
+---
+title: "Courses"
+---
+  
+- 2018-10
+    - Elementos de probabilidad y estadística.
+    - Análisis de regresión.
+- 2017-20
+    - Simulación estadística.
+    - Análisis de regresión.
+    - Seminario II de maestría
+- 2017-10
+    - Elementos de probabilidad y estadística.
+    - Regresión y diseño de experimentos.
+- 2016-20
+    - Análisis de regresión.
+    - Introducción al análisis multivariado.
+    - Seminario de especialización.
+- 2016-01
+    - Simulación estadística.
+    - Elementos de probabilidad y estadística.
+- 2015-02
+    - Modelos jerárquicos.
+    - Análisis de regresión.
+- 2015-01
+    - Simulación estadística.
+    - Elementos de probabilidad y estadística.
+
