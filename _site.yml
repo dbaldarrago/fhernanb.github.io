@@ -17,7 +17,7 @@ navbar:
       menu:
         - text: "Blog"
           icon: fa-rss
-          href: https://privefl.github.io/blog/
+          href: https://fhernanb.github.io/blog/
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/

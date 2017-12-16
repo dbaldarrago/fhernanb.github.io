@@ -13,7 +13,3 @@ img <- readPNG("imagenes/cover.png")
 grid.raster(img)
 ```
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
