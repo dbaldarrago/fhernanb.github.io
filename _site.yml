@@ -1,7 +1,7 @@
-name: "Freddy Hernandez"
+name: "Freddy Hern&aacutendez"
 output_dir: "."
 navbar:
-  title: "Freddy Hernandez"
+  title: "Freddy Hern&aacutendez"
   left:
     - text: "Home"
       href: index.html
