@@ -18,6 +18,8 @@ navbar:
         - text: "Blog"
           icon: fa-rss
           href: https://fhernanb.github.io/blog/
+        - text: "Semillero"
+          href: https://fhernanb.github.io/srunal/
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
