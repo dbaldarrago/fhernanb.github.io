@@ -1,19 +1,31 @@
 ---
 title: "About me"
 ---
+
+<div class = "row">
+
+<div class = "col-md-5">
 Profesor asistente.  
 [Escuela de Estadística](http://ciencias.medellin.unal.edu.co/escuelas/estadistica/).  
 [Facultad de Ciencias](http://ciencias.medellin.unal.edu.co/).  
 [Universidad Nacional de Colombia sede Medellín](http://medellin.unal.edu.co/).  
 email: fhernanb@unal.edu.co
+</div>
 
-```{r fig.asp=0.6, fig.align='center', echo=FALSE}
+<div class = "col-md-4">
+```{r fig.asp=0.3, echo=FALSE, fig.align='center'}
+library(png)
+library(grid)
+img <- readPNG("imagenes/logounal.png")
+grid.raster(img)
+```
+</div>
+</div>
+
+```{r fig.asp=0.5, echo=FALSE, fig.align='left'}
 library(png)
 library(grid)
 img <- readPNG("imagenes/unal3.png")
 grid.raster(img)
 ```
-
-
-
 
