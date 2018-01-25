@@ -4,14 +4,19 @@ navbar:
   title: "Freddy Hern&aacutendez"
   left:
     - text: "Home"
+      icon: fa-home
       href: index.html
     - text: "About"
+      icon: fa-male
       href: about.html
     - text: "Teaching"
+      icon: fa-university
       href: teaching.html
     - text: "Research"
+      icon: fa-flask
       href: research.html
     - text: "Books"
+      icon: fa-book
       href: books.html
     - text: "#rstats"
       menu:
@@ -19,7 +24,8 @@ navbar:
           icon: fa-rss
           href: https://fhernanb.github.io/blog/
         - text: "Semillero"
-          href: https://fhernanb.github.io/srunal/
+          icon: fa-group
+          href: https://srunal.github.io/
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
