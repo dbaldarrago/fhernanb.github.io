@@ -26,6 +26,9 @@ navbar:
         - text: "Semillero"
           icon: fa-group
           href: https://srunal.github.io/
+        - text: "Shiny apps"
+          icon: fa-hand-spock-o
+          href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/herramientas.html
   right:
     - icon: ion-university
       href: http://ciencias.medellin.unal.edu.co/escuelas/estadistica/
