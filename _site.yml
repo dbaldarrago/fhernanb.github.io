@@ -41,6 +41,3 @@ output:
     theme: flatly
     highlight: tango
     css: styles.css
-    
-# Google Analytics
-google_analytics: UA-113140956-2
