@@ -36,8 +36,11 @@ navbar:
       href: https://github.com/fhernanb
     - icon: fa-twitter
       href: https://twitter.com/fhernanb74
+
 output:
   html_document:
     theme: flatly
     highlight: tango
+    includes:
+      in_header: GA_Script.html
     css: styles.css
