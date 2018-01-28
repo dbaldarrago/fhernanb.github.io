@@ -6,41 +6,11 @@ title: ""
 <h1>Welcome to my webpage!!!</h1>
 </center>
 
-```{r fig.asp=0.30, fig.align='center', echo=FALSE}
+```{r myphoto, fig.asp=0.30, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/cover.png")
 grid.raster(img)
-```
-
-```{r, echo=FALSE, message=FALSE}
-fun <- function(x, y) (4*x^2+y^2)*exp(-x^2-y^2)
-
-a <- 3
-x <- seq(from=-a, to=a, length.out=25)
-y <- seq(from=-a, to=a, length.out=25)
-z <- outer(x, y, fun)
-
-require(plotly)
-plot_ly(x = x, y = y, z = z, color = I("red")) %>% add_surface()
-```
-
-```{r, echo=FALSE, message=FALSE}
-require(rgl)
-time <- 0:500
-xyz <- cbind(cos(time/20), sin(time/10), time)
-lineid <- plot3d(xyz, type="l", col = "black")["data"]
-sphereid <- spheres3d(xyz[1, , drop=FALSE], radius = 8, col = "red")
-rglwidget() %>%
-  playwidget(list(
-    ageControl(births = time, ages = c(0, 0, 50),
-               colors = c("gray", "red", "gray"), objids = lineid),
-    ageControl(births = 0, ages = time,
-               vertices = xyz, objids = sphereid)),
-    start = 0, stop = max(time) + 20, rate = 50,
-    components = c("Reverse", "Play", "Slower", "Faster",
-                   "Reset", "Slider", "Label"),
-    loop = TRUE)
 ```
 
 

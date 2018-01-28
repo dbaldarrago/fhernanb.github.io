@@ -13,7 +13,7 @@ email: fhernanb@unal.edu.co
 </div>
 
 <div class = "col-md-4">
-```{r fig.asp=0.3, echo=FALSE, fig.align='center'}
+```{r logo, fig.asp=0.3, echo=FALSE, fig.align='center'}
 library(png)
 library(grid)
 img <- readPNG("imagenes/logounal.png")
@@ -22,7 +22,7 @@ grid.raster(img)
 </div>
 </div>
 
-```{r fig.asp=0.5, echo=FALSE, fig.align='left'}
+```{r bloque43, fig.asp=0.5, echo=FALSE, fig.align='left'}
 library(png)
 library(grid)
 img <- readPNG("imagenes/unal3.png")
