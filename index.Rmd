@@ -6,7 +6,7 @@ title: ""
 <h1>Welcome to my webpage!!!</h1>
 </center>
 
-```{r myphoto, fig.asp=0.30, fig.align='center', echo=FALSE}
+```{r fig.asp=0.30, fig.align='center', echo=FALSE}
 library(png)
 library(grid)
 img <- readPNG("imagenes/cover.png")
