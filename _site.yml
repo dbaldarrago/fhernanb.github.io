@@ -42,6 +42,5 @@ output:
     theme: flatly
     highlight: tango
     includes:
-      in_header: GA_Script.html
-      after_body: footer.html
+      in_header: header.html
     css: styles.css
