@@ -42,5 +42,6 @@ output:
     theme: flatly
     highlight: tango
     includes:
+      after_body: footer.html
       in_header: header.html
     css: styles.css
