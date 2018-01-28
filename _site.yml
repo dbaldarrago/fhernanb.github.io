@@ -43,4 +43,5 @@ output:
     highlight: tango
     includes:
       in_header: GA_Script.html
+      after_body: footer.html
     css: styles.css
