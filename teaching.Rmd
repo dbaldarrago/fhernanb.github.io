@@ -3,27 +3,31 @@ title: "Teaching"
 ---
 Below are the courses and all of them have support with Moodle platform, [visit this url](http://virtualciencias.medellin.unal.edu.co/moodle/course/index.php?categoryid=8) to consult them.
 
+- 2018-20
+    - Análisis de regresión
+    - Seminario II de maestría
+    - Técnicas computacionales en estadística
 - 2018-10
-    - Elementos de probabilidad y estadística.
-    - Análisis de regresión.
+    - Elementos de probabilidad y estadística
+    - Análisis de regresión
 - 2017-20
-    - Simulación estadística.
-    - Análisis de regresión.
+    - Simulación estadística
+    - Análisis de regresión
     - Seminario II de maestría
 - 2017-10
-    - Elementos de probabilidad y estadística.
-    - Regresión y diseño de experimentos.
+    - Elementos de probabilidad y estadística
+    - Regresión y diseño de experimentos
 - 2016-20
-    - Análisis de regresión.
-    - Introducción al análisis multivariado.
-    - Seminario de especialización.
+    - Análisis de regresión
+    - Introducción al análisis multivariado
+    - Seminario de especialización
 - 2016-01
-    - Simulación estadística.
+    - Simulación estadística
     - Elementos de probabilidad y estadística.
 - 2015-02
-    - Modelos jerárquicos.
-    - Análisis de regresión.
+    - Modelos jerárquicos
+    - Análisis de regresión
 - 2015-01
-    - Simulación estadística.
-    - Elementos de probabilidad y estadística.
+    - Simulación estadística
+    - Elementos de probabilidad y estadística
 
