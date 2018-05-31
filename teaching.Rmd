@@ -1,10 +1,10 @@
 ---
 title: "Teaching"
 ---
-Below are the courses and all of them have support with Moodle platform, [visit this url](http://virtualciencias.medellin.unal.edu.co/moodle/course/index.php?categoryid=8) to consult them.
+Below are the courses and all of them have support with Moodle platform. You can access as guest using [this url](http://virtualciencias.medellin.unal.edu.co/moodle/course/index.php?categoryid=8) with the password: <font color="#9938E9">antioquia</font>
 
 - 2018-20
-    - Análisis de regresión
+    - Introducción al análisis multivariado
     - Seminario II de maestría
     - Técnicas computacionales en estadística
 - 2018-10
