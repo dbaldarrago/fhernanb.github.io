@@ -15,7 +15,7 @@ grid.raster(img)
 
 <br />
 
-Next figure depictes the life expectancy for Colombia since 1953, figure was made with [gganimated](https://github.com/thomasp85/gganimate) package.
+Next figure depictes the life expectancy for Colombia since 1953, the figure was obtained with [gganimated](https://github.com/thomasp85/gganimate) package.
 
 <center>
 ![](imagenes/colombia.gif)
