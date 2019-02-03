@@ -3,7 +3,8 @@ title: "R packages"
 ---
 Below are the R packages.
 
-- [usefultools](https://fhernanb.github.io/usefultools/index.html)
-- [cubm](https://github.com/fhernanb/cubm)
-- [RelDists](https://github.com/ousuga/RelDists)
+- [stests](https://fhernanb.github.io/stests)
+- [usefultools](https://fhernanb.github.io/usefultools/)
+- [cubm](https://fhernanb.github.io/cubm)
+- [RelDists](https://ousuga.github.io/RelDists/)
 - [model](https://github.com/fhernanb/model)
