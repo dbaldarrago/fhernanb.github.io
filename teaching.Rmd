@@ -3,6 +3,13 @@ title: "Teaching"
 ---
 Below are the courses and all of them have support with Moodle platform. You can access as guest using [this url](http://virtualciencias.medellin.unal.edu.co/moodle/course/index.php?categoryid=8) with the password: <font color="#9938E9">antioquia</font>
 
+- 2019-20
+    - Modelos jerárquicos
+    - Seminario II de maestría
+    - Técnicas computacionales en estadística
+- 2019-10
+    - Simulación estadística
+    - Análisis de regresión
 - 2018-20
     - Introducción al análisis multivariado
     - Seminario II de maestría
