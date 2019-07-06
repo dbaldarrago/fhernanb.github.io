@@ -5,8 +5,9 @@ title: "Books"
 <hr>
 
 <div class = "row">
+
 <div class = "col-md-6">
-The book "Manual de R" is available [in this url](https://github.com/fhernanb/Manual-de-R/blob/master/_book/Manual_de_R.pdf).
+The book "Manual de R" is available [in this url](https://fhernanb.github.io/Manual-de-R/).
 
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
@@ -15,8 +16,9 @@ img <- readPNG("imagenes/manualR.png")
 grid.raster(img)
 ```
 </div>
+
 <div class = "col-md-6">
-The book "Gráficos con R" is available [in this url](https://github.com/fhernanb/Graficos-con-R/blob/master/_book/Graficos_con_R.pdf).
+The book "Gráficos con R" is available [in this url](https://fhernanb.github.io/Graficos-con-R/).
 
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
@@ -25,4 +27,28 @@ img <- readPNG("imagenes/graficosR.png")
 grid.raster(img)
 ```
 </div>
+
+</div>
+
+
+
+<hr>
+
+
+
+<div class = "row">
+
+<div class = "col-md-6">
+The book "Análisis de regresión con R" is available [in this url](https://fhernanb.github.io/libro_regresion/).
+
+```{r fig.asp=0.6, echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/regresion_R.png")
+grid.raster(img)
+```
+</div>
+
+
+
 </div>
