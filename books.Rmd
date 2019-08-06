@@ -12,7 +12,7 @@ The book "Manual de R" is available [in this url](https://fhernanb.github.io/Man
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/manualR.png")
+img <- readPNG("imagenes/cover_manualR.png")
 grid.raster(img)
 ```
 </div>
@@ -23,7 +23,7 @@ The book "Gráficos con R" is available [in this url](https://fhernanb.github.io
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/graficosR.png")
+img <- readPNG("imagenes/cover_graficosR.png")
 grid.raster(img)
 ```
 </div>
@@ -44,11 +44,22 @@ The book "Análisis de regresión con R" is available [in this url](https://fher
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
 library(grid)
-img <- readPNG("imagenes/regresion_R.png")
+img <- readPNG("imagenes/cover_regresionR.png")
 grid.raster(img)
 ```
 </div>
 
+
+<div class = "col-md-6">
+The book "Modelos Predictivos" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
+
+```{r fig.asp=0.6, echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/cover_mod_pred.png")
+grid.raster(img)
+```
+</div>
 
 
 </div>
