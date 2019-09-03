@@ -1,0 +1,9 @@
+---
+title: "Students"
+---
+
+M.Sc students
+
+1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](http://bdigital.unal.edu.co/72368/)
+1. Juan Camilo Díaz Zapata. [Modelo de regresión mixto para datos proporcionales inflados con ceros y/o unos y creación del paquete ZOIP en R](http://bdigital.unal.edu.co/64250/)
+1. Diana María Arango Botero. [Impacto de especificar incorrectamente la distribución de los efectos aleatorios en los modelos lineales generalizados mixtos: caso Poisson y Binomial Negativa](http://bdigital.unal.edu.co/56232/)

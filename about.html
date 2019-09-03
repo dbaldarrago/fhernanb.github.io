@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -239,18 +240,6 @@ $(document).ready(function () {
 }
 </style>
 
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
-
 <!-- code folding -->
 
 
@@ -311,6 +300,13 @@ $(document).ready(function () {
     <span class="fa fa-book"></span>
      
     Books
+  </a>
+</li>
+<li>
+  <a href="students.html">
+    <span class="fa fa-user-graduate"></span>
+     
+    Students
   </a>
 </li>
 <li class="dropdown">
@@ -393,7 +389,7 @@ $(document).ready(function () {
 <div class="row">
 <div class="col-md-5">
 <p>I am an Assistant Professor of Statistic at <a href="http://medellin.unal.edu.co/">Universidad Nacional de Colombia</a> Medellín. My research interests lie in statistics, statistical computing, mixed models and simulation.</p>
-<p>email: <a href="mailto:fhernanb@unal.edu.co">fhernanb@unal.edu.co</a></p>
+<p>email: <a href="mailto:fhernanb@unal.edu.co" class="email">fhernanb@unal.edu.co</a></p>
 </div>
 <div class="col-md-4">
 <p><img src="about_files/figure-html/unnamed-chunk-1-1.png" width="672" style="display: block; margin: auto;" /></p>
@@ -424,6 +420,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
