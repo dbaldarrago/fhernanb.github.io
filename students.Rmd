@@ -2,6 +2,11 @@
 title: "Students"
 ---
 
+Current students
+
+1. Sara Garcés Céspedes.
+2. Melissa Maya López.
+
 M.Sc students
 
 1. Deisy Alejandra Mazo Vélez. [Implementación de pruebas diagnósticas en R para modelos CUB](http://bdigital.unal.edu.co/72368/)
