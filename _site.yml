@@ -25,7 +25,7 @@ navbar:
     menu:
     - text: Blog
       icon: fa-rss
-      href: https://blog-freddy.netlify.com/
+      href: https://rpubs.com/fhernanb
     - text: Semillero
       icon: fa-group
       href: https://srunal.github.io/
