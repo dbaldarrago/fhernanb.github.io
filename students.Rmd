@@ -4,7 +4,7 @@ title: "Students"
 
 Current students
 
-1. Sara Garcés Céspedes.
+1. [Sara Garcés Céspedes](https://saragarcescespedes.github.io/index.html).
 2. Melissa Maya López.
 3. Jaime Mosquera Gutiérrez.
 
