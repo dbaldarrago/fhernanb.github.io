@@ -18,7 +18,7 @@ grid.raster(img)
 </div>
 
 <div class = "col-md-6">
-The book "Gráficos con R" is available [in this url](https://fhernanb.github.io/Graficos-con-R/).
+"Gráficos con R" is available [in this url](https://fhernanb.github.io/Graficos-con-R/).
 
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
@@ -39,7 +39,7 @@ grid.raster(img)
 <div class = "row">
 
 <div class = "col-md-6">
-The book "Análisis de regresión con R" is available [in this url](https://fhernanb.github.io/libro_regresion/).
+"Análisis de regresión con R" is available [in this url](https://fhernanb.github.io/libro_regresion/).
 
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
@@ -51,7 +51,7 @@ grid.raster(img)
 
 
 <div class = "col-md-6">
-The book "Modelos Predictivos" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
+"Modelos Predictivos" is available [in this url](https://fhernanb.github.io/libro_mod_pred/).
 
 ```{r fig.asp=0.6, echo=FALSE}
 library(png)
@@ -60,6 +60,28 @@ img <- readPNG("imagenes/cover_mod_pred.png")
 grid.raster(img)
 ```
 </div>
+
+
+</div>
+
+<hr>
+
+
+
+<div class = "row">
+
+<div class = "col-md-6">
+"Modelos Mixtos con R" is available [in this url](https://fhernanb.github.io/libro_modelos_mixtos/).
+
+```{r fig.asp=0.6, echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("imagenes/cover_mod_mix.png")
+grid.raster(img)
+```
+</div>
+
+
 
 
 </div>
