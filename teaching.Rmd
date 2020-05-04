@@ -7,7 +7,7 @@ Below are the courses and all of them have support with Moodle platform. You can
     - Modelos jerárquicos
     - Seminario II de maestría
     - Análisis de regresióna
-- 2020-20
+- 2020-10
     - Modelos Lineales Generalizados
 - 2019-20
     - Modelos jerárquicos
