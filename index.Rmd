@@ -13,7 +13,16 @@ img <- readPNG("imagenes/cover.png")
 grid.raster(img)
 ```
 
+<br/>
+<br/>
 
+<p align="center">
+Abajo un gif del famoso Tablero de Galton.
+</p>
+
+<p align="center">
+  <img src="imagenes/galton_board.gif" width="200">
+</p>
 
 
 
